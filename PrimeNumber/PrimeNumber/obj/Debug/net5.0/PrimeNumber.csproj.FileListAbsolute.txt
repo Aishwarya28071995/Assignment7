@@ -1,0 +1,16 @@
+F:\assignment5\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.exe
+F:\assignment5\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.deps.json
+F:\assignment5\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.runtimeconfig.json
+F:\assignment5\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.runtimeconfig.dev.json
+F:\assignment5\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.dll
+F:\assignment5\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.pdb
+F:\assignment5\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.csproj.AssemblyReference.cache
+F:\assignment5\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+F:\assignment5\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.AssemblyInfoInputs.cache
+F:\assignment5\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.AssemblyInfo.cs
+F:\assignment5\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.csproj.CoreCompileInputs.cache
+F:\assignment5\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.dll
+F:\assignment5\PrimeNumber\PrimeNumber\obj\Debug\net5.0\refint\PrimeNumber.dll
+F:\assignment5\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.pdb
+F:\assignment5\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.genruntimeconfig.cache
+F:\assignment5\PrimeNumber\PrimeNumber\obj\Debug\net5.0\ref\PrimeNumber.dll
